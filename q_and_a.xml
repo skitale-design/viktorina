@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions source="https://klub-drug.ru/viktorina/voprosy-dlya-viktoriny-s-otvetami.html">
+	<question time_to_answer="5">
+		<question_text> Сколько на Земле материков начинаются на букву «А»? </question_text>
+		<answers>
+			<answer right="true">5</answer>
+			<answer>4</answer>
+			<answer>6</answer>
+		</answers>
+		<explanation> Всего 5 материков: Америки Северная и Южная, Африка, Антарктида, Австралия. </explanation>
+	</question>
+	<question time_to_answer="3">
+		<question_text> Сколько суток составляют високосный год? </question_text>
+		<answers>
+			<answer right="true">366</answer>
+			<answer>365</answer>
+			<answer>365.5</answer>
+		</answers>
+		<explanation> Всего 366 суток </explanation>
+	</question>
+	<question time_to_answer="6">
+		<question_text> Сколько полей-квадратиков на шахматной доске? </question_text>
+		<answers>
+			<answer>62</answer>
+			<answer>66</answer>
+			<answer right="true">64</answer>
+		</answers>
+		<explanation> На доске 64 квадратика </explanation>
+	</question>
+	<question time_to_answer="5">
+		<question_text> Сколько холодных цветов в радуге? </question_text>
+		<answers>
+			<answer>4</answer>
+			<answer right="true">3</answer>
+			<answer>2</answer>
+		</answers>
+		<explanation> Три. Зеленый – нейтральный </explanation>
+	</question>
+</questions>	
+
+	<!-- item>  </item>
+	<item>  </item>
+	<item> Сколько сантиметров составляет одна тысячная часть километра? </item>
+	<item> Сколько глаз у обыкновенной мухи? </item>
+	<item> Сколько суток курица высиживает цыплят? </item>
+	<item> Сколько звуков в слове «рассеянный»? </item>
+	<item> Сколько можно дать ответов на вопрос «Мы пойдем сегодня в парк?» </item>
+	<item> Сколько листьев у ландыша? </item>
+	<item> Сколько продолжался полет Ю. Гагарина? </item>
+	<item> Сколько у человека основных органов чувств? </item>
+	<item> Сколько минут нужно ждать после закипания воды, чтобы яйцо сварилось вкрутую? </item>
+	<item> Сколько раз цифра 3 используется в записи двузначных чисел? </item>
+	<item> Сколько времени должен длиться сон ученика 4 класса? </item>
+	<item> Сколько раз старик из сказки А. С. Пушкина вызывал Золотую рыбку? </item>
+	<item> Сколько ног у улитки? </item>
+	<item> Сколько нужно градусов, чтобы вода закипела? </item>
+	<item> Сколько раз в день необходимо чистить зубы?... 
+
+<answers source="https://klub-drug.ru/viktorina/voprosy-dlya-viktoriny-s-otvetami.html">
+	<item>Всего 366 суток</item>
+	<item>Пять</item>
+	<item></item>
+	<item></item>
+	<item>Сто</item>
+	<item>Пять</item>
+	<item>Двадцать один</item>
+	<item>Девять</item>
+	<item>Четыре</item>
+	<item>Два</item>
+	<item>Длился 1 ч 48 мин</item>
+	<item>Пять: слух, зрение, обоняние, осязание, вкус</item>
+	<item>Около 10 мин</item>
+	<item>Всего 19 раз</item>
+	<item>Не меньше 9 часов</item>
+	<item>Пять</item>
+	<item>Одна</item>
+	<item>Сто</item>
+	<item>Два раза....</item> 
+</answers -->
